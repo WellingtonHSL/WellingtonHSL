@@ -14,7 +14,11 @@
 🚀 Atualmente em busca de me tornar um profissional capacitado para desenvolver aplicativos mobile eficientes e com uma experiência de usuário intuitiva, combinando habilidades em desenvolvimento Android e princípios de UI/UX Design.
 <br />
 
-![Status](./profile-3d-contrib/profile-night-green.svg)
+### GitHub Estatísticas ⚡
+
+<!--![Status](./profile-3d-contrib/profile-night-green.svg)-->
+![Profile 3D](./profile-3d-contrib/profile-night-green.svg)
+
 
 <div style="text-align: center;">
 
@@ -41,12 +45,13 @@
   <img src="https://streak-stats.demolab.com?user=WellingtonHSL&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
 ## Tech Stack:
 <div align="center" >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=java,kotlin,firebase,git,idea,androidstudio,figma" />
 </a>
-  <br />
+<br />
 </div>
 
 <br />
