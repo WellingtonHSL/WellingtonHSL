@@ -6,7 +6,7 @@
   </a>
 </div>
 
-## About me
+## Sobre mim
 🎓 Sou Wellington Henrique, atualmente faço Sistema de Informação na Universidade Paranaense(UNIPAR) com foco em desenvolvimento mobile Android.
 
 🎯 Tenho como objetivo principal desenvolver soluções criativas e inovadoras, buscando sempre facilitar o acesso de forma prática e intuitiva.
@@ -16,8 +16,7 @@
 
 ### GitHub Estatísticas ⚡
 
-<!--![Status](./profile-3d-contrib/profile-night-green.svg)-->
-![Profile 3D](./profile-3d-contrib/profile-night-green.svg)
+![Profile 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <div style="text-align: center;">
@@ -47,7 +46,7 @@
 </div>
 
 
-## Tech Stack:
+## Tecnologias e Ferramentas:
 <div align="center" >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=java,kotlin,firebase,git,idea,androidstudio,figma" />
@@ -60,5 +59,5 @@
  
 ##
    <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=WellingtonHSL&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
