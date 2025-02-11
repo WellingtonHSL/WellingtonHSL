@@ -58,12 +58,15 @@
 <br />
  
 ##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=WellingtonHSL&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
+<div align="center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=WellingtonHSL&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
 
 ## 
-   <div align="center" >
-     [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WellingtonHSL)](https://github.com/WellingtonHSL)
-    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welllington-henrique-silva-lima/)](https://www.linkedin.com/in/welllington-henrique-silva-lima/)
-  </div>
+<div>
+  <a href = "https://github.com/WellingtonHSL"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a>
+  <a href = "https://www.linkedin.com/in/welllington-henrique-silva-lima/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+- Obrigado pela visita.
+- Aproveite!! o/
+</div>
