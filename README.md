@@ -16,7 +16,7 @@
 
 ### GitHub Estatísticas ⚡
 
-![Profile 3D](./profile-3d-contrib/profile-night-rainbow.svg)
+![Profile 3D](./profile-3d-contrib/profile-night-green.svg)
 
 
 <div style="text-align: center;">
