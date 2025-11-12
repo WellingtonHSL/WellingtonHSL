@@ -6,8 +6,8 @@
   </a>
 </div>
 
-🎓 Estudante de Sistemas de Informação <br/>
-📱 Desenvolvedor Android
+#### 🎓 Estudante de Sistemas de Informação <br/>
+#### 📱 Desenvolvedor Android
 
 ## Sobre mim
   Sou apaixonado por tecnologia, design e tudo o que envolve criar experiências que realmente fazem diferença para o usuário.
