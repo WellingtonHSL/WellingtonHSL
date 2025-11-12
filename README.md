@@ -6,7 +6,7 @@
   </a>
 </div>
 
-🎓 Estudante de Sistemas de Informação
+🎓 Estudante de Sistemas de Informação <br/>
 📱 Desenvolvedor Android
 
 ## Sobre mim
