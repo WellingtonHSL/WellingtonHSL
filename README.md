@@ -16,7 +16,24 @@
   Acredito que cada linha de código é uma oportunidade de aprendizado — e é isso que me motiva a transformar ideias em aplicativos funcionais, bonitos e cheios de propósito.
 <br />
 
-### GitHub Estatísticas ⚡
+## Tecnologias e Ferramentas:
+<div align="center" >
+  <h3>📱Desenvolvimento Mobile</h3><br/>
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=java,kotlin" />
+</a>
+<br />
+</div>
+<br/>
+<div align="center" >
+  <h3>💻Ferramentas que utilizo</h3><br/>
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,firebase,figma,git" />
+</a>
+<br />
+</div>
+
+## ⚡ GitHub Estatísticas
 
 ![Profile 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -47,24 +64,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WellingtonHSL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
-## Tecnologias e Ferramentas:
-<div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=java,kotlin,firebase,git,idea,androidstudio,figma" />
-</a>
-<br />
-</div>
-
 <br />
 <br />
  
-##
+## 🏆 Conquistas
 <div align="center" >
   <img src="https://github-profile-trophy.vercel.app/?username=WellingtonHSL&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
 
-## 
+##
 <div>
   <a href = "https://github.com/WellingtonHSL"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/welllington-henrique-silva-lima/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
