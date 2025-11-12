@@ -6,12 +6,14 @@
   </a>
 </div>
 
+🎓 Estudante de Sistemas de Informação
+📱 Desenvolvedor Android
+
 ## Sobre mim
-🎓 Sou Wellington Henrique, atualmente faço Sistema de Informação na Universidade Paranaense(UNIPAR) com foco em desenvolvimento mobile Android.
+  Sou apaixonado por tecnologia, design e tudo o que envolve criar experiências que realmente fazem diferença para o usuário.
+  Atualmente, estou imerso no universo do Android moderno, estudando Jetpack Compose, Kotlin e arquiteturas limpas para construir apps eficientes, escaláveis e com interfaces agradáveis.
 
-🎯 Tenho como objetivo principal desenvolver soluções criativas e inovadoras, buscando sempre facilitar o acesso de forma prática e intuitiva.
-
-🚀 Atualmente em busca de me tornar um profissional capacitado para desenvolver aplicativos mobile eficientes e com uma experiência de usuário intuitiva, combinando habilidades em desenvolvimento Android e princípios de UI/UX Design.
+  Acredito que cada linha de código é uma oportunidade de aprendizado — e é isso que me motiva a transformar ideias em aplicativos funcionais, bonitos e cheios de propósito.
 <br />
 
 ### GitHub Estatísticas ⚡
