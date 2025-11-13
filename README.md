@@ -10,14 +10,14 @@
 #### 🎓 Estudante de Sistemas de Informação <br/>
 #### 📱 Desenvolvedor Android
 
-## Sobre mim
+## 👤 Sobre mim
   Sou apaixonado por tecnologia, design e tudo o que envolve criar experiências que realmente fazem diferença para o usuário.
   Atualmente, estou imerso no universo do Android moderno, estudando Jetpack Compose, Kotlin e arquiteturas limpas para construir apps eficientes, escaláveis e com interfaces agradáveis.
 
   Acredito que cada linha de código é uma oportunidade de aprendizado — e é isso que me motiva a transformar ideias em aplicativos funcionais, bonitos e cheios de propósito.
 <br />
 
-## Tecnologias e Ferramentas:
+## 🛠️ Tecnologias e Ferramentas:
 <div align="center" >
   <h3>📱Desenvolvimento Mobile</h3><br/>
 <a href="https://skillicons.dev"   >
