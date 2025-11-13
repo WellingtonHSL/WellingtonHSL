@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=510357&height=140&section=header">
 
 <!---### Hello, World! 👋 --->
 <div align="center">
@@ -80,3 +81,5 @@
 - Obrigado pela visita.
 - Aproveite!! o/
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=510357&height=120&section=footer">
