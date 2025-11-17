@@ -3,7 +3,7 @@
 <!---### Hello, World! 👋 --->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inte&weight=700&duration=3000&pause=1000&color=6593E0&center=true&vCenter=true&random=true&width=435&lines=Hello,+World!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inte&weight=700&duration=3000&pause=1000&color=6593E0&center=true&vCenter=true&random=true&width=435&lines=Hello,+World!;Desenvolvedor+Android+júnior" alt="Typing SVG" />
   </a>
 </div>
 
