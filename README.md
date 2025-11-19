@@ -3,8 +3,12 @@
 <!---### Hello, World! 👋 --->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inte&weight=700&duration=3000&pause=1000&color=6593E0&center=true&vCenter=true&random=true&width=435&lines=Hello,+World!;Desenvolvedor+Android+júnior" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inte&weight=700&size=28&duration=3000&pause=1000&color=6593E0&center=true&vCenter=true&random=true&width=435&lines=Hello,+World!;Desenvolvedor+Android+júnior" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8bafed47-b149-4c74-a733-9632c00ed6dc" width="300">
 </div>
 
 #### 🎓 Estudante de Sistemas de Informação <br/>
