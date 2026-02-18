@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=510357&height=140&section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FB5702&height=140&section=header">
 
 <!---### Hello, World! 👋 --->
 <div align="center">
@@ -86,4 +86,4 @@
 - Aproveite!! o/
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=510357&height=120&section=footer">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FB5702&height=120&section=footer">
