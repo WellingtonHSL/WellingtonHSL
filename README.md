@@ -3,20 +3,31 @@
 <!---### Hello, World! 👋 --->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inte&weight=700&size=26&duration=3000&pause=1000&color=FB5702&center=true&vCenter=true&random=true&width=435&lines=Hello,+World!;Android+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inte&weight=700&size=26&duration=3000&pause=1000&color=FB5702&center=true&vCenter=true&random=true&width=435&lines=Hello,+World!;FullStack+Developer;Android+Developer" alt="Typing SVG" />
   </a>
 </div>
 
-### Desenvolvedor Android | Kotlin | Jetpack Compose
+### Full Stack Developer • Android Developer
 
 ## 👤 Sobre mim
-  Sou apaixonado por tecnologia, design e tudo o que envolve criar experiências que realmente fazem diferença para o usuário.
-  Atualmente, estou imerso no universo do Android moderno, estudando Jetpack Compose, Kotlin e arquiteturas limpas para construir apps eficientes, escaláveis e com interfaces agradáveis.
+Sou desenvolvedor **Full Stack e Android**, apaixonado por tecnologia e por transformar ideias em produtos digitais que realmente gerem valor para os usuários.
 
-  Acredito que cada linha de código é uma oportunidade de aprendizado — e é isso que me motiva a transformar ideias em aplicativos funcionais, bonitos e cheios de propósito.
+Atualmente trabalho com **JavaScript, Next.js e MySQL** no desenvolvimento de aplicações web, criando soluções completas que envolvem frontend, integração com APIs e persistência de dados. No mobile, desenvolvo aplicativos **Android nativos utilizando Kotlin e jetpack compose**, explorando o ecossistema moderno com boas práticas de arquitetura e organização de código.
+
+Tenho grande interesse em **arquitetura de software, código limpo, escalabilidade e experiência do usuário**, buscando sempre entender profundamente os problemas antes de implementar soluções.
+
+Acredito que cada projeto é uma oportunidade de evoluir tecnicamente e construir sistemas cada vez mais bem estruturados, eficientes e fáceis de manter.
 <br />
 
 ## 🛠️ Tecnologias e Ferramentas:
+<div align="center" >
+  <h3>📱Desenvolvimento FullStack</h3><br/>
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,mysql" />
+</a>
+<br />
+</div>
+<br/>
 <div align="center" >
   <h3>📱Desenvolvimento Mobile</h3><br/>
 <a href="https://skillicons.dev"   >
@@ -28,7 +39,7 @@
 <div align="center" >
   <h3>💻Ferramentas que utilizo</h3><br/>
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=androidstudio,idea,firebase,figma,git" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,firebase,figma,git" />
 </a>
 <br />
 </div>
